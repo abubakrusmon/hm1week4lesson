@@ -1,3 +1,77 @@
 *{
 margin: 0;
 }
+body{
+background-color: black;
+}
+.divheader{
+color: white;
+display: flex;
+width: 100%;
+justify-content: space-between;
+border-bottom: 3px solid #FFFFFF33;
+padding: 10px;
+padding-left: 0;
+}
+.pageheader{
+color: #939697;
+font-size: 20px;
+}
+.divheader2{
+color: white;
+display: flex;
+gap: 40px;
+}
+.page2header{
+font-weight: 600;
+font-size: 20px;
+}
+.zgheader{
+color: white;
+font-size: 30px;
+}
+.page3header{
+color: #FFFFFF;
+font-size: 20px;
+}
+.divavtoru{
+display: flex;
+align-items: center;
+gap: 30px;
+}
+.ZG2HEADER{
+color: white;
+font-size: 25px;
+}
+.btnheader{
+width: 200px;
+height: 45px;
+background-color: #FF9549;
+border: none;
+border-radius: 10px;
+font-size: 17px;
+font-weight: 700;
+}
+.divcontact{
+display: flex;
+align-items: center;
+gap: 20px;
+}
+.divheader3{
+display: flex;
+justify-content: space-between;
+width: 100%;
+margin-top: 10px;
+}
+.heaeder{
+display: flex;
+width: 100%;
+align-items: center;
+gap: 30px;
+justify-content: center;
+margin-top: 20px;
+}
+.imglogo{
+height: 80px;
+
+}
